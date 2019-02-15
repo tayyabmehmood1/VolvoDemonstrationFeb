@@ -1,5 +1,5 @@
 Select *
-FROM
+FROM1
 Apples,
 Mangoes,
 Oranges,
