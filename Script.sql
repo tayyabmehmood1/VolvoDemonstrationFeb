@@ -2,4 +2,5 @@ Select *
 FROM
 Apples,
 Mangoes,
-Oranges
+Oranges,
+ABC
